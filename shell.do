@@ -1,5 +1,5 @@
 global dofile "E:\test.do"  // Change this to the do-file you want to run.
-global email "EMAIL@provider.com" // Change to your email address where you want to receive the notification
+global email "EMAIL@provider.com" // Change to your email address where you want to RECEIVE the notification (not the sender)
 
 
 
